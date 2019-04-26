@@ -1,5 +1,5 @@
 ## 说明
-库文件需请移步到百度网盘：https://pan.baidu.com/s/1ocBNxhbhx2NaYCOU3Sn15g  提取码：sir9
+库文件需移步到百度网盘：https://pan.baidu.com/s/1ocBNxhbhx2NaYCOU3Sn15g  提取码：sir9
 
 此库共收录了6760个常用汉字的拼音、首部、笔画、笔顺
 
