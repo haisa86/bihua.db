@@ -1,4 +1,6 @@
 ## 说明
+库文件需请移步到百度网盘：https://pan.baidu.com/s/1ocBNxhbhx2NaYCOU3Sn15g  提取码：sir9
+
 此库共收录了6760个常用汉字的拼音、首部、笔画、笔顺
 
 此库全部数据来源于哈童网校：http://xue.hahaertong.com/index.php?app=chinese
