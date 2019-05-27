@@ -5,7 +5,7 @@
 
 此库共收录了6760个常用汉字的拼音、首部、笔画、笔顺
 
-此库全部数据来源于哈童网校：http://xue.hahaertong.com/index.php?app=chinese，仅供学习不用于商业用途
+此库全部数据来源于哈童网校：http://xue.hahaertong.com/index.php?app=chinese，仅供学习不可用于商业用途
 
 使用mongodb集群构建该库，2个分片 + 配置服务 + 路由服务，mongodb版本为V4.0.4
 
