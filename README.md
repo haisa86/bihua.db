@@ -1,9 +1,11 @@
 ## 说明
 库文件需移步到百度网盘：https://pan.baidu.com/s/1ocBNxhbhx2NaYCOU3Sn15g  提取码：sir9
 
+附赠爬虫工具：BiHuaCrawler，使用.net core2.1构建，依赖MongoDB.Driver.dll和Newtonsoft.Json
+
 此库共收录了6760个常用汉字的拼音、首部、笔画、笔顺
 
-此库全部数据来源于哈童网校：http://xue.hahaertong.com/index.php?app=chinese
+此库全部数据来源于哈童网校：http://xue.hahaertong.com/index.php?app=chinese，仅供学习不用于商业用途
 
 使用mongodb集群构建该库，2个分片 + 配置服务 + 路由服务，mongodb版本为V4.0.4
 
