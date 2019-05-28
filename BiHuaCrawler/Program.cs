@@ -16,6 +16,7 @@ namespace BiHuaCrawler
         static MongoDBContext _dbContext = new MongoDBContext("mongodb://127.0.0.1:4444/bihua/?readPreference=SecondaryPreferred");
         static string url = "http://xue.hahaertong.com/index.php?app=chinese";
 
+
         static void Main(string[] args)
         {
 
